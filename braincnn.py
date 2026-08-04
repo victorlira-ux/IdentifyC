@@ -265,7 +265,7 @@ def main():
         prepare_data()
     
     # Hiperparâmetros
-    batch_size = 32
+    batch_size = 1
     learning_rate = 0.001
     num_epochs = 5
     val_ratio = 0.2
